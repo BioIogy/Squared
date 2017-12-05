@@ -12,4 +12,4 @@ and based on [pytudes](https://github.com/norvig/pytudes).
 # Index of Jupyter (IPython) Notebooks
 |Logic and Number Puzzles|
 |---|
-|[Advent of Code 2015]<br>*Puzzle site with a coding puzzle each day for Advent 2015.*|
+|[Advent of Code 2015](https://github.com/BioIogy/Squared/blob/master/Advent%20of%20Code%202015.ipynb)<br>*Puzzle site with a coding puzzle each day for Advent 2015.*|
